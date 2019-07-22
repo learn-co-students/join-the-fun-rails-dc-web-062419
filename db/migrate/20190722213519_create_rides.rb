@@ -5,3 +5,5 @@ class CreateRides < ActiveRecord::Migration
     end
   end
 end
+
+
